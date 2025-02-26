@@ -13,13 +13,13 @@ The goal of Kaizen Task Manager is to provide an intuitive and flexible task man
 ---
 
 ## Version History
-### **v1.0 - Initial Release**
+### **[v1.0](https://github.com/mattwydra/kaizen-task-manager/blob/main/v1.zip) - Initial Release**
 - Basic task manager with a single list for daily and custom tasks.
 - Ability to add, delete, and mark tasks as completed.
 - Simple GUI using Tkinter.
 - Saves tasks locally in a JSON file.
 
-### **v2.0 - Multi-Tab & UI Enhancements** *(Current Version)*
+### **[v2.0](https://github.com/mattwydra/kaizen-task-manager/blob/main/v2.zip) - Multi-Tab & UI Enhancements** *(Current Version)*
 - **Tab System**: Users can create and manage multiple tabs for different task categories.
 - **Dark Mode**: UI redesigned with a dark theme.
 - **Auto-Scaling Window**: Adjusts dynamically based on task count.
