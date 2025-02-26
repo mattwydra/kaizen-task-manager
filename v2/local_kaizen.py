@@ -4,8 +4,8 @@ import json
 
 TASKS_FILE = "tasks.json"
 
-# Default daily tasks
-daily_tasks = ["Ownership Icon", "Proverbs", "Anki", "Duolingo", "Cold shower + report to Hunt Sr.", "Human Benchmark", "Leetcode", "Job Apps", "Coding", "Make Bed"]
+# Default daily tasks{
+daily_tasks = ["Physical Win", "Mental Win", "Spiritual Win"]
 
 def load_tasks():
     try:

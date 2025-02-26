@@ -1,4 +1,4 @@
-('C:\\workspace_testing\\kaizen_bot\\local_kaizen\\v2\\build\\local_kaizen\\PYZ-00.pyz',
+('C:\\workspace_testing\\kaizen_bot\\local_kaizen\\git\\kaizen-task-manager\\v2\\build\\local_kaizen\\PYZ-00.pyz',
  [('__future__', 'C:\\Python313\\Lib\\__future__.py', 'PYMODULE'),
   ('_colorize', 'C:\\Python313\\Lib\\_colorize.py', 'PYMODULE'),
   ('_compat_pickle', 'C:\\Python313\\Lib\\_compat_pickle.py', 'PYMODULE'),
