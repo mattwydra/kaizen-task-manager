@@ -8,31 +8,24 @@ The goal of Kaizen Task Manager is to provide an intuitive and flexible task man
 - **Persistent Storage**: Saves tasks locally in `tasks.json`.
 - **Task Management**: Add, delete, and mark tasks as completed.
 - **Tab System**: Organize tasks into multiple categories.
-- **Customization & UI Improvements**: Dark mode, drag-and-drop tab reordering, and adaptive UI scaling.
 
 ---
 
-## Version History
-### **v1.0 - Initial Release**
-- Basic task manager with a single list for daily and custom tasks.
-- Ability to add, delete, and mark tasks as completed.
-- Simple GUI using Tkinter.
-- Saves tasks locally in a JSON file.
+## Links to each README
+- **[v1](v1/README.md)**
+- **[v2](v2/README.md)**
 
-### **v2.0 - Multi-Tab & UI Enhancements** *(Current Version)*
-- **Tab System**: Users can create and manage multiple tabs for different task categories.
+---
+
+## Planned Updates (v3.0 and beyond)
+- **Customization & UI Improvements**: Dark mode, drag-and-drop tab reordering, and adaptive UI scaling.
+- **Persistent State**: Remember task completion states on restart.
+- **Reset Tasks**: Toggle to reset all tasks as "undone."
+- **Scheduled Refresh**: Daily, weekly, and monthly resets for respective tabs.
 - **Dark Mode**: UI redesigned with a dark theme.
 - **Auto-Scaling Window**: Adjusts dynamically based on task count.
 - **Rearrange Tabs**: Click and drag to reorder categories.
 - **Delete Tabs**: Option to remove tabs (except the default "Dailies" tab).
-
----
-
-## Planned Updates (v3.0)
-- **Theme Customization**: Toggle between light and dark mode (and potentially more themes).
-- **Persistent State**: Remember task completion states on restart.
-- **Reset Tasks**: Toggle to reset all tasks as "undone."
-- **Scheduled Refresh**: Daily, weekly, and monthly resets for respective tabs.
 
 ---
 
