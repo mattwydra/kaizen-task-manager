@@ -14,6 +14,7 @@ The goal of Kaizen Task Manager is to provide an intuitive and flexible task man
 ## Links to each README
 - **[v1](v1/README.md)**
 - **[v2](v2/README.md)**
+- **[v3](v3/README.md)**
 
 ---
 
