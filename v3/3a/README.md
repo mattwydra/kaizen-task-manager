@@ -15,3 +15,5 @@ Version 3.0 focuses on usability improvements and core feature enhancements.
    - Background thread handles the reset process.
 4. **Improved Window Resizing**  
    - The task list now properly expands when resizing the window.
+
+### **[v3.1 zip](https://github.com/mattwydra/kaizen-task-manager/blob/main/v3a.zip)**
