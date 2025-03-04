@@ -11,3 +11,6 @@ Version 3.1 builds on 3.0 by adding deeper customization options.
 3. **Timer Customization**  
    - Users can set their own reset times.
    - No longer restricted to midnight resets.
+4. **Import Functionality**
+   - Option to import settings
+   - Option to import json file for tasks/categories
