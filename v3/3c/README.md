@@ -29,6 +29,9 @@
    - Reset all tasks button
    - Better organization of task states
 
+## Issues:
+   - Dark mode hides tasks
+
 ## How to Use:
 - To create tabs with special reset intervals, use naming conventions like "Weekly" or "Monthly" at the end (e.g., "WorkWeekly", "ProjectsMonthly")
 - Drag tabs to reorder them
