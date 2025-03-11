@@ -1,0 +1,12 @@
+{
+    "daily": [],
+    "custom": {
+        "daily": [
+            "code",
+            "temp"
+        ]
+    },
+    "completed": {
+        "daily": []
+    }
+}
