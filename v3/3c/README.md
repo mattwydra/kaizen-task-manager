@@ -31,6 +31,7 @@
 
 ## Issues:
    - Dark mode hides tasks
+   - Import tasks doesn't import tabs as well
 
 ## How to Use:
 - To create tabs with special reset intervals, use naming conventions like "Weekly" or "Monthly" at the end (e.g., "WorkWeekly", "ProjectsMonthly")
